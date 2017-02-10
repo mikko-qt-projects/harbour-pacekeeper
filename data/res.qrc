@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>2.mp3</file>
+        <file>1.mp3</file>
+        <file>3.mp3</file>
+        <file>9.mp3</file>
+        <file>8.mp3</file>
+        <file>7.mp3</file>
+        <file>5.mp3</file>
+        <file>4.mp3</file>
+        <file>6.mp3</file>
+        <file>0.mp3</file>
+        <file>minus.mp3</file>
+        <file>finished.mp3</file>
+        <file>plus.mp3</file>
+        <file>running.mp3</file>
+        <file>seconds.mp3</file>
+        <file>go.mp3</file>
+        <file>ready.mp3</file>
+    </qresource>
+</RCC>
